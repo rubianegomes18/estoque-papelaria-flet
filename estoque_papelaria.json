@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "Caneta Preta",
+        "marca": "BIC",
+        "categoria": "Escrita",
+        "preco": "1,50",
+        "quantidade": "20"
+    },
+    {
+        "nome": "Caderno 15 Matérias",
+        "marca": "Sulamericana",
+        "categoria": "Cadernos",
+        "preco": "23.90",
+        "quantidade": "15"
+    },
+    {
+        "nome": "Quadro Harry Potter",
+        "marca": "Rubiane",
+        "categoria": "Artes",
+        "preco": "35",
+        "quantidade": "2"
+    }
+]
